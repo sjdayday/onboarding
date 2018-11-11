@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Pending physicians" max_length="40" name="x_290064_onboard_pending_physicians" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Department" mandatory="true" max_length="255" name="u_department" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="Facility" mandatory="true" max_length="255" name="u_facility" type="string_full_utf8"/>
+        <element attributes="edge_encryption_enabled=true" label="First name" mandatory="true" max_length="40" name="u_first_name" type="string_full_utf8"/>
+        <element label="Last 4 SSN" mandatory="true" max_length="40" name="u_last_4_ssn" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Last name" mandatory="true" max_length="40" name="u_last_name" type="string_full_utf8"/>
+    </element>
+</database>
