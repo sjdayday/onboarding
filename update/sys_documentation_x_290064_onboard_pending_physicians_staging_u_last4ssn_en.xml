@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_last4ssn" label="Last4SSN" language="en" table="x_290064_onboard_pending_physicians_staging">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_last4ssn</element>
+            <help/>
+            <hint/>
+            <label>Last4SSN</label>
+            <language>en</language>
+            <name>x_290064_onboard_pending_physicians_staging</name>
+            <plural>Last4SSNs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-12 00:20:06</sys_created_on>
+            <sys_id>18aa12980fb52300c3158e8ce1050e50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Last4SSN</sys_name>
+            <sys_package display_value="Onboard" source="x_290064_onboard">5bcc4b720f212300c3158e8ce1050e07</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Onboard">5bcc4b720f212300c3158e8ce1050e07</sys_scope>
+            <sys_update_name>sys_documentation_x_290064_onboard_pending_physicians_staging_u_last4ssn_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-12 00:20:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
