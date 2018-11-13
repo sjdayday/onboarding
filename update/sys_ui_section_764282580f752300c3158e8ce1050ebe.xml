@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>e5d1ded00fb52300c3158e8ce1050ee6</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>46d05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>sys_updated_on</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>69d1ded00fb52300c3158e8ce1050ee6</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>c6d05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>u_first_name</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>e9d1ded00fb52300c3158e8ce1050ee6</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>4ad05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,13 +46,13 @@
             <element>u_last_name</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>6dd1ded00fb52300c3158e8ce1050ee6</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>cad05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,13 +60,13 @@
             <element>u_facility</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>edd1ded00fb52300c3158e8ce1050ee6</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>4ed05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -74,13 +74,13 @@
             <element>u_department</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>61d1ded00fb52300c3158e8ce1050ee7</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>ced05c300fb12300c3158e8ce1050e86</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +88,83 @@
             <element>u_last_4_ssn</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-11-11 23:41:41</sys_created_on>
-            <sys_id>e1d1ded00fb52300c3158e8ce1050ee7</sys_id>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>42d05c300fb12300c3158e8ce1050e87</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-11-11 23:41:41</sys_updated_on>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>access_approved_by</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>c2d05c300fb12300c3158e8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>access_approved_date</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>46d05c300fb12300c3158e8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>c6d05c300fb12300c3158e8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>nuid</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>4ad05c300fb12300c3158e8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>o365_email</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-13 03:35:03</sys_created_on>
+            <sys_id>cad05c300fb12300c3158e8ce1050e87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_290064_onboard_pending_physicians" sys_domain="global" view="Default view">764282580f752300c3158e8ce1050ebe</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-13 03:35:03</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
